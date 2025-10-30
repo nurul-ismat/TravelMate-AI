@@ -1,24 +1,16 @@
-# Travel Genius! ✨
+# 🧠 TravelMate AI
 
-Travel Genius is an AI-powered web application designed to make trip planning a breeze. 🗺️ Whether you're looking to explore a new city or plan a weekend getaway, Travel Genius helps you create an optimized and efficient travel plan tailored to your needs. Just input your destination, duration, budget, and the number of travelers, and let the AI do the rest! 🎒✨
+TravelMate AI is an intelligent, AI-powered web application that simplifies trip planning. 🌍
+Just enter your destination, duration, budget, and number of travelers — and let the AI generate a personalized, optimized travel plan for you. ✈️
 
 ## Key Features:
 
-- 🔑 Google sign-in for quick and easy access.
-- 🗺️ Detailed travel roadmaps based on your preferences.
-- 💾 Roadmaps stored in Firestore for easy access anytime.
-- 📸 Find places and view stunning photos with Google API.
-- 🏨 Get suggestions for hotels, places to visit, and even transport costs.
-- 📍 View all locations directly in Google Maps from the app.
+🗺️ Smart AI-based trip planning with personalized recommendations
+🔑 Google sign-in for quick access
+💾 Travel plans securely stored in Firebase Firestore
+📸 Integrated Google API for photos and location data
+📍 View all destinations directly on Google Maps
 
 ## Technologies Used:
 
-- React.JS
-- Firebase
-- Firestore
-- Google API
-- Gemini
-
-I'm excited to see how Travel Genius can help make your travel planning smoother and smarter! 🚗🛫
-
-- [Live link](https://travel-genius-ai.web.app/)
+React.js | Firebase | Firestore | Google API | Gemini AI
